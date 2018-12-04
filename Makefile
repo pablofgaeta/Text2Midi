@@ -5,6 +5,6 @@ do:
 clear:
 	java Owrite
 check:
-	./Ascii2midi mainOut > mymid.mid
+	./a.out mainOut > mymid.mid
 clean:
 	rm Translate.class
