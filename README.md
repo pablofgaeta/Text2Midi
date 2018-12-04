@@ -3,6 +3,7 @@ Code Repository for "Audible Cosmos" Altered Book Project
 
 ## Contributors
 Author: Pablo Gaeta
+
 Source code for Ascii to Midi conversion: Alex Selby from www.archduke.org
 
 ### About the Code...
