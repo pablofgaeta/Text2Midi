@@ -16,6 +16,7 @@ This code works by doing blah blah blah...
 ```shell
 $ git clone https://github.com/pablofgaeta/Text2Midi.git
 $ cd Text2Midi
+$ gcc asc2mid.c
 $ make
 $ make do
 $ make check
