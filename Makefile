@@ -14,6 +14,12 @@
 # "make check" - Converts the "mainOut" file into a usable midi file
 #
 # "make clean" - removes the compiled Translate class
+#
+# Order of usage should be: 
+# 1. "make"
+# 2. "make do"
+# 3. "make check" 
+# and then "make clear" to restart and do each step again
 
 
 # Compiles Translate class. Done automatically when calling "make"
