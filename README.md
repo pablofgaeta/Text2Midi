@@ -14,9 +14,10 @@ This code works by taking text from the input.txt file and converting it into
 1. Makefile
 2. Translate.java
 2. asc2mid.c
-3. input.txt
-4. mainOut
-5. README.md
+3. Owrite.class
+4. input.txt
+5. mainOut
+6. README.md
 
 Note: mymid.mid will be created as the output midi file to be used
 
