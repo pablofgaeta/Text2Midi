@@ -8,7 +8,7 @@ Source code for Ascii to Midi conversion: Alex Selby from www.archduke.org
 
 ### About the Code...
 This code works by taking text from the input.txt file and converting it into an ascii midi representation
-and usable midi file. Each letter from the input is converted into a note on the western classical scale 
+and usable midi file. Each letter from the input is converted into a note on the Western tone system 
 (C, C#, D, D#, E, F, F#, G, G#, A, A#, B, C). Harmony is created by semitone shifts determined by a random
 number generator (This leaves the chance of the cosmos to form the piece). The input text that I used comes from
 Carl Sagan's _Cosmos_. The user can change the text file to any piece of ascii text they wish to create a new piece.
